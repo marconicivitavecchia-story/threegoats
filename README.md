@@ -1,8 +1,9 @@
 # Brief
-1) La capra se ne va a prendere del cibo.
-2) Il lupo, sapendolo, va per tre volte a bussare alla porta della casa.
-3) Dopo aver fallito 2 volte, al terzo tentativo mangia 2 dei 3 capretti.
-4) La capra torna a casa, trova solo 1 capretto, e uccide il lupo.
+1) La mamma di 3 capretti va a prendete del cibo perché vuole sfamare i propri capretti.
+2) Nel frattempo il lupo va a mangiare i capretti.
+3) Per 2 volte i capretti non lo fanno entrare per non essere mangiati.
+4) Al terzo tentativo il lupo imita la capra e i capretti gli aprono.
+5) Il lupo mangia 2 dei 3 capretti. La capra, tornata a casa, uccide il lupo per vendicarsi.
 
 Note:
 - Il programma sarà disponibile sia per computer che per cellulare (in orizzontale).
