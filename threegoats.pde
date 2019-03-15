@@ -4,7 +4,7 @@ Personaggio[] capretto = new Personaggio[3];
 Oggetto casa, erba, strada;
 
 void setup() {
-  fullScreen();
+  fullScreen(P3D);
   imageMode(CENTER);
 }
 
