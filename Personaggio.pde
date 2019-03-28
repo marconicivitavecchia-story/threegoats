@@ -1,14 +1,17 @@
 class Personaggio {
-  PImage image;
-  int x, y, step;
+  PShape shape;
+  float x, y, z;
 
-  Personaggio(PImage image, int x, int y) {
-    this.image = image;
+  Personaggio(String fileName, float x, float y, float z) {
+    this.shape = loadShape(fileName);
+    this.shape.scale(100);
+    this.shape.rotateX(90);
     this.x = x;
     this.y = y;
+    this.z = z;
   }
 
   void display() {
-    image(image, x, y);
+    shape(shape, x, y);
   }
 }
