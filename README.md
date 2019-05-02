@@ -11,4 +11,8 @@ Note:
 
 # Design
 
-![](https://github.com/marconicivitavecchia-story/threegoats/blob/master/design.jpg)
+![Original design](https://github.com/marconicivitavecchia-story/threegoats/blob/master/design.jpg)
+
+# Implementazione
+
+![Implementation](https://github.com/marconicivitavecchia-story/threegoats/blob/master/Implementazione.PNG)
