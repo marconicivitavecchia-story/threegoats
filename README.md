@@ -8,3 +8,7 @@
 Note:
 - Il programma sarà disponibile sia per computer che per cellulare (in orizzontale).
 - Le immagini della grafica saranno le stesse del programma.
+
+# Design
+
+![](https://github.com/marconicivitavecchia-story/threegoats/blob/master/design.jpg)
